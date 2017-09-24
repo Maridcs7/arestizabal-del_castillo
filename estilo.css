@@ -41,7 +41,7 @@ header{
 	color:white;
 	}
 
-header svg{height: 150px; width:auto;}
+header svg{height: 160px; width:auto;}
 
 @media screen and (max-width: 980px){
 	/*En caso que la pantalla no alcance el ancho de 980px… */
@@ -163,7 +163,7 @@ video{
 	margin:1%;
 	color:#333;
 	background:white;
-	box-shadow:0 0 5px rgb(240,240,240);
+	box-shadow:0 0 5px rgb(106,150,144);
 }
 
 .item figure{overflow:hidden;}
